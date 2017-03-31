@@ -1,0 +1,4 @@
+my_name=nandu
+my_frndname=ammu
+echo "My name is $my_name"
+echo "my frnd name $my_frnd"
